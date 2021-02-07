@@ -19,7 +19,7 @@
 
 ## 현재까지 푼 문제 수 (총 1문제)
 
-* `Baekjoon` : **1**문제
+* `Baekjoon` : **3**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **0**문제
 
@@ -36,7 +36,10 @@
 - [Baekjoon - 후위 표기식2](https://www.acmicpc.net/problem/1935)
 
 ### 2주차 (2/10, 2/14)
--
+- [Baekjoon - 암호 만들기](https://www.acmicpc.net/problem/1759)
+- [Baekjoon - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 
 ### 3주차 (2/16, 2/19, 2/21)
 -
@@ -48,7 +51,8 @@
 
 ---
 
-### 1주차 (2/5, 2/7)
-- [Baekjoon - 피자 (Small)](https://www.acmicpc.net/problem/14606)
-- [Baekjoon - 후위 표기식](https://www.acmicpc.net/problem/1918)
-- [Baekjoon - 후위 표기식2](https://www.acmicpc.net/problem/1935)
+### 2주차 (2/10, 2/14)
+- [Baekjoon - 암호 만들기](https://www.acmicpc.net/problem/1759)
+- [Baekjoon - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
