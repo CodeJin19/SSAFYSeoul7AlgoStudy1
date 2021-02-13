@@ -15,15 +15,14 @@ public class BJ5430_AC {
 		int T = Integer.parseInt(in.readLine());
 		for (int tc = 1; tc <= T; tc++) {
 			String p = in.readLine(); // 수행할 함수
-			int n = Integer.parseInt(in.readLine());
 			
 			// 주어진 배열 저장
+			int n = Integer.parseInt(in.readLine());
 			String str = in.readLine();
 			StringTokenizer st = new StringTokenizer(str.substring(1, str.length()-1), ",");
-			LinkedList<Integer> x = new LinkedList<Integer>();
-			for (int i = 0; i < n; i++) {
-				x.add(Integer.parseInt(st.nextToken()));
-			}
+			LinkedList<String> x = new LinkedList<String>();
+			for (int i = 0; i < n; i++)
+				x.add(st.nextToken());
 			
 			// 함수 실행
 			boolean flag = false; // 뒤집음 여부
