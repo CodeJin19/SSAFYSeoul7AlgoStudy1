@@ -8,63 +8,48 @@ public class BJ_2346 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
-		StringBuilder sb;
-		String order, str;
-		int T = Integer.parseInt(reader.readLine());
-		int n, idx, num, head, tail, list[];
-		boolean isHead;
+		StringBuilder sb = new StringBuilder();
+		String str;
+		int n = Integer.parseInt(reader.readLine());
+		int list[] = new int[n + 1];
+		int idx, diff;
 
-		for (int itr = 0; itr < T; itr++) {
-			sb = new StringBuilder();
-			order = reader.readLine();
-			n = Integer.parseInt(reader.readLine());
-			str = reader.readLine();
-			list = new int[n];
-			head = 0;
-			tail = n - 1;
-			idx = 1;
-			isHead = true;
+		str = reader.readLine();
+		st = new StringTokenizer(str, " ");
 
-			for (int i = 0; i < n; i++) {
-				num = 0;
+		for (int i = 1; i <= n; i++)
+			list[i] = Integer.parseInt(st.nextToken());
 
-				while (str.charAt(idx) != ',' && str.charAt(idx) != ']') {
-					num *= 10;
-					num += (int) (str.charAt(idx) - '0');
+		idx = 1;
+		sb.append(idx);
+
+		for (int i = 1; i < n; i++) {
+			diff = list[idx];
+			list[idx] = 0;
+
+			if (0 < diff) {
+				while (diff != 0) {					
 					idx++;
+					if(n < idx)
+						idx -= n;
+					
+					if(list[idx] != 0)
+						diff--;
 				}
-
-				list[i] = num;
-				idx++;
-			}
-
-			for (int i = 0; i < order.length(); i++) {
-				if (order.charAt(i) == 'R') {
-					isHead = !isHead;
-				} else if (isHead) {
-					head++;
-				} else {
-					tail--;
-				}
-			}
-			
-			if (tail < head) {
-				sb.append("error");
-			} else if (isHead) {
-				sb.append("[").append(list[head]);
-				for (int i = head + 1; i <= tail; i++) {
-					sb.append(",").append(list[i]);
-				}
-				sb.append("]");
 			} else {
-				sb.append("[").append(list[tail]);
-				for (int i = tail - 1; head <= i; i--) {
-					sb.append(",").append(list[i]);
+				while (diff != 0) {					
+					idx--;
+					if(idx < 1)
+						idx += n;
+					
+					if(list[idx] != 0)
+						diff++;
 				}
-				sb.append("]");
 			}
 
-			System.out.println(sb);
+			sb.append(" ").append(idx);
 		}
+
+		System.out.println(sb);
 	}
 }
