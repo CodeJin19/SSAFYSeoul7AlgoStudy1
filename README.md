@@ -17,9 +17,9 @@
 
 
 
-## 현재까지 푼 문제 수 (총 1문제)
+## 현재까지 푼 문제 수 (총 7문제)
 
-* `Baekjoon` : **3**문제
+* `Baekjoon` : **7**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **0**문제
 
@@ -42,7 +42,12 @@
 - [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 
 ### 3주차 (2/16, 2/19, 2/21)
--
+- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
+- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
+- [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
+- [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
+- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
 
 ### 4주차 (2/13, 2/26, 2/28)
 -
@@ -51,8 +56,10 @@
 
 ---
 
-### 2주차 (2/10, 2/14)
-- [Baekjoon - 암호 만들기](https://www.acmicpc.net/problem/1759)
-- [Baekjoon - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
-- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
+### 3주차 (2/16, 2/19, 2/21)
+- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
+- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
+- [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
+- [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
+- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
