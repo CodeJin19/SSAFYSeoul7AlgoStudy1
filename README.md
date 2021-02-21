@@ -17,9 +17,9 @@
 
 
 
-## 현재까지 푼 문제 수 (총 7문제)
+## 현재까지 푼 문제 수 (총 13문제)
 
-* `Baekjoon` : **7**문제
+* `Baekjoon` : **13**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **0**문제
 
@@ -49,17 +49,22 @@
 - [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
 
-### 4주차 (2/13, 2/26, 2/28)
--
+### 4주차 (2/23, 2/25, 2/28)
+- [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
+- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
+- [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
+- [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
+- [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
+- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7576)
 
 </details>
 
 ---
 
-### 3주차 (2/16, 2/19, 2/21)
-- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
-- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
-- [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
-- [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
-- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
+### 4주차 (2/23, 2/25, 2/28)
+- [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
+- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
+- [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
+- [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
+- [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
+- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7576)
