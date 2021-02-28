@@ -17,11 +17,11 @@
 
 
 
-## 현재까지 푼 문제 수 (총 13문제)
+## 현재까지 푼 문제 수 (총 19문제)
 
-* `Baekjoon` : **13**문제
+* `Baekjoon` : **14**문제
 * `Programmers` : **0**문제
-* `SWExpert` : **0**문제
+* `SWExpert` : **5**문제
 
 <br>
 
@@ -61,10 +61,33 @@
 
 ---
 
-### 4주차 (2/23, 2/25, 2/28)
-- [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
-- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
-- [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
-- [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
-- [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
-- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7576)
+<details>
+  <summary>5주차 ~ 9주차 (2021년 3월)</summary>
+
+### 5주차 (3/2, 3/5, 3/7)
+- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
+- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
+- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
+- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
+- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
+
+### 6주차 (3/9, 3/12, 3/14)
+
+### 7주차 (3/16, 3/19, 3/21)
+
+### 8주차 (3/23, 3/26, 3/28)
+
+### 9주차 (3/30, 4/2, 4/4)
+  
+</details>
+
+---
+
+### 5주차 (3/2, 3/5, 3/7)
+- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
+- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
+- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
+- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
+- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
