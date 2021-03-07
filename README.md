@@ -23,8 +23,6 @@
 * `Programmers` : **0**문제
 * `SWExpert` : **5**문제
 
-<br>
-
 ---
 
 <details>
@@ -59,8 +57,6 @@
 
 </details>
 
----
-
 <details>
   <summary>5주차 ~ 9주차 (2021년 3월)</summary>
 
@@ -72,7 +68,13 @@
 - [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
 - [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
 
-### 6주차 (3/9, 3/12, 3/14)
+### 6주차 (3/9, 3/11, 3/14)
+- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
+- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
+- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
+- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
 ### 7주차 (3/16, 3/19, 3/21)
 
@@ -84,10 +86,10 @@
 
 ---
 
-### 5주차 (3/2, 3/5, 3/7)
-- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
-- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
-- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
-- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
-- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
-- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
+### 6주차 (3/9, 3/11, 3/14)
+- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
+- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
+- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
+- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
