@@ -71,10 +71,10 @@
 ### 6주차 (3/9, 3/11, 3/14)
 - [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
 - [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
-- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 - [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
+- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 
 ### 7주차 (3/16, 3/18, 3/21)
 - [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
