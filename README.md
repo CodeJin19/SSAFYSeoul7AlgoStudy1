@@ -17,9 +17,9 @@
 
 
 
-## 현재까지 푼 문제 수 (총 25문제)
+## 현재까지 푼 문제 수 (총 31문제)
 
-* `Baekjoon` : **20**문제
+* `Baekjoon` : **26**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **5**문제
 
@@ -76,7 +76,13 @@
 - [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
-### 7주차 (3/16, 3/19, 3/21)
+### 7주차 (3/16, 3/18, 3/21)
+- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+- [SWExpert - 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
+- [SWExpert - 원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
+- [SWExpert - 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+- [SWExpert - 물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)
 
 ### 8주차 (3/23, 3/26, 3/28)
 
@@ -86,10 +92,10 @@
 
 ---
 
-### 6주차 (3/9, 3/11, 3/14)
-- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
-- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
-- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+### 7주차 (3/16, 3/18, 3/21)
+- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+- [SWExpert - 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
+- [SWExpert - 원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
+- [SWExpert - 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+- [SWExpert - 물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)
