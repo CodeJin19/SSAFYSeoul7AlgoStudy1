@@ -77,12 +77,14 @@
 - [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 
 ### 7주차 (3/16, 3/18, 3/21)
-- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
-- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
-- [SWExpert - 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
-- [SWExpert - 원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
-- [SWExpert - 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
-- [SWExpert - 물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)
+|문제|알고리즘|난이도|
+|---|---|---|
+|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|        |모의 SW 역량테스트|
+|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|        |모의 SW 역량테스트|
+|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|    |모의 SW 역량테스트|
+|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|    |모의 SW 역량테스트|
+|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|    |모의 SW 역량테스트|
+|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|    |D4|
 
 ### 8주차 (3/23, 3/26, 3/28)
 
@@ -93,9 +95,12 @@
 ---
 
 ### 7주차 (3/16, 3/18, 3/21)
-- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
-- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
-- [SWExpert - 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
-- [SWExpert - 원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
-- [SWExpert - 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
-- [SWExpert - 물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)
+
+|문제|알고리즘|사이트|난이도|
+|---|---|---|---|
+|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|        |SWExpert|모의 SW 역량테스트|
+|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|        |SWExpert|모의 SW 역량테스트|
+|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|    |SWExpert|D4|
