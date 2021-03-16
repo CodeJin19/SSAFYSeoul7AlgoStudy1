@@ -61,30 +61,34 @@
   <summary>5주차 ~ 9주차 (2021년 3월)</summary>
 
 ### 5주차 (3/2, 3/5, 3/7)
-- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
-- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
-- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
-- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
-- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
-- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
+|문제|알고리즘|사이트|난이도|
+|---|---|---|---|
+|[아기 상어](https://www.acmicpc.net/problem/16236)|구현, 그래프, BFS|Baekjoon|Gold 4|
+|[행복 유치원](https://www.acmicpc.net/problem/13164)|그리디, 정렬|Baekjoon|Silver 1|
+|[청소년 상어](https://www.acmicpc.net/problem/19236)|구현, 백트래킹|Baekjoon|Gold 2|
+|[당근 키우기](https://www.acmicpc.net/problem/20363)|수학, 그리디|Baekjoon|Silver 5|
+|[연구소](https://www.acmicpc.net/problem/14502)|그래프, 브루트포스, BFS|Baekjoon|Gold 5|
+|[미로 탐색](https://www.acmicpc.net/problem/2178)|그래프, BFS|Baekjoon|Silver 1|
 
 ### 6주차 (3/9, 3/11, 3/14)
-- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
-- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
-- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
-- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+|문제|알고리즘|사이트|난이도|
+|---|---|---|---|
+|[퇴사](https://www.acmicpc.net/problem/14501)|DP, 브루트포스|Baekjoon|Silver 4|
+|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|그래프, BFS|Baekjoon|Gold 4|
+|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|스택, 큐|Programmers|Level 2|
+|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|스택, 큐|Programmers|Level 1|
+|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|구현, 비트마스킹|Baekjoon|Silver 2|
+|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|그래프, BFS|Baekjoon|Gold 5|
 
 ### 7주차 (3/16, 3/18, 3/21)
-|문제|알고리즘|난이도|
-|---|---|---|
-|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|        |모의 SW 역량테스트|
-|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|        |모의 SW 역량테스트|
-|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|    |모의 SW 역량테스트|
-|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|    |모의 SW 역량테스트|
-|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|    |모의 SW 역량테스트|
-|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|    |D4|
+|문제|알고리즘|사이트|난이도|
+|---|---|---|---|
+|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|        |SWExpert|모의 SW 역량테스트|
+|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|        |SWExpert|모의 SW 역량테스트|
+|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|    |SWExpert|모의 SW 역량테스트|
+|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|    |SWExpert|D4|
 
 ### 8주차 (3/23, 3/26, 3/28)
 
