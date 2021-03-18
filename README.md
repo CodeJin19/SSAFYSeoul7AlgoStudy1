@@ -19,8 +19,8 @@
 
 ## 현재까지 푼 문제 수 (총 31문제)
 
-* `Baekjoon` : **26**문제
-* `Programmers` : **0**문제
+* `Baekjoon` : **24**문제
+* `Programmers` : **2**문제
 * `SWExpert` : **5**문제
 
 ---
