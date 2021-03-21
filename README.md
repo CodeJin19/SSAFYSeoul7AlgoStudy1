@@ -17,11 +17,11 @@
 
 
 
-## 현재까지 푼 문제 수 (총 31문제)
+## 현재까지 푼 문제 수 (총 37문제)
 
 * `Baekjoon` : **24**문제
 * `Programmers` : **2**문제
-* `SWExpert` : **5**문제
+* `SWExpert` : **11**문제
 
 ---
 
@@ -83,14 +83,22 @@
 ### 7주차 (3/16, 3/18, 3/21)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
-|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
-|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)||모의 SW 역량테스트|
-|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)||모의 SW 역량테스트|
-|SWExpert|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)||모의 SW 역량테스트|
-|SWExpert|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)||D4|
+|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|브루트포스|모의 SW 역량테스트|
+|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|그래프, BFS|D4|
 
 ### 8주차 (3/23, 3/26, 3/28)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
+|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
+|Programmers|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|그리디|Level 2|
+|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||Level 2|
+|Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
+|Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
 
 ### 9주차 (3/30, 4/2, 4/4)
   
@@ -98,12 +106,12 @@
 
 ---
 
-### 7주차 (3/16, 3/18, 3/21)
+### 8주차 (3/23, 3/26, 3/28)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
-|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
-|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)||모의 SW 역량테스트|
-|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)||모의 SW 역량테스트|
-|SWExpert|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)||모의 SW 역량테스트|
-|SWExpert|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)||D4|
+|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
+|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
+|Programmers|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|그리디|Level 2|
+|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||Level 2|
+|Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
+|Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
