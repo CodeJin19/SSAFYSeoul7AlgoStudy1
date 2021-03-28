@@ -17,10 +17,10 @@
 
 
 
-## 현재까지 푼 문제 수 (총 37문제)
+## 현재까지 푼 문제 수 (총 43문제)
 
-* `Baekjoon` : **24**문제
-* `Programmers` : **2**문제
+* `Baekjoon` : **28**문제
+* `Programmers` : **4**문제
 * `SWExpert` : **11**문제
 
 ---
@@ -100,18 +100,26 @@
 |Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
 |Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
 
-### 9주차 (3/30, 4/2, 4/4)
+### 9주차 (3/30, 4/1, 4/4)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
+|Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
+|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시|Level 2|
+|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||Level 2|
+|Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
+|Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
   
 </details>
 
 ---
 
-### 8주차 (3/23, 3/26, 3/28)
+### 9주차 (3/30, 4/1, 4/4)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
-|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
-|Programmers|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|그리디|Level 2|
-|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||Level 2|
-|Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
-|Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
+|Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
+|Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
+|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시|Level 2|
+|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||Level 2|
+|Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
+|Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
