@@ -119,7 +119,7 @@
 |---|---|---|---|
 |Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
 |Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
-|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시|Level 2|
-|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||Level 2|
+|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시, 문자열|Level 2|
+|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|자료 구조|Level 2|
 |Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
 |Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
