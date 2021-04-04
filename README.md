@@ -17,10 +17,10 @@
 
 
 
-## 현재까지 푼 문제 수 (총 43문제)
+## 현재까지 푼 문제 수 (총 49문제)
 
-* `Baekjoon` : **28**문제
-* `Programmers` : **4**문제
+* `Baekjoon` : **32**문제
+* `Programmers` : **6**문제
 * `SWExpert` : **11**문제
 
 ---
@@ -114,12 +114,12 @@
 
 ---
 
-### 9주차 (3/30, 4/1, 4/4)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
-|Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
-|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시, 문자열|Level 2|
-|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|자료 구조|Level 2|
-|Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
-|Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
+### 10주차 (4/6, 4/8, 4/11)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/2865)|나는 위대한 슈퍼스타K|[Java](10주차/나는%20위대한%20슈퍼스타K)|그리디, 정렬, 우선순위 큐|Silver 4|
+|[Baekjoon](https://www.acmicpc.net/problem/9655)|돌 게임|[Java](10주차/돌%20게임)|수학, 다이나믹 프로그래밍|Silver 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1495)|기타리스트|[Java](10주차/기타리스트)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2602)|돌다리 건너기|[Java](10주차/돌다리%20건너기)|다이나믹 프로그래밍|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/12761)|돌다리|[Java](10주차/돌다리)|그래프, 너비 우선 탐색|Silver 2|
+|[Baekjoon](https://www.acmicpc.net/problem/9466)|텀 프로젝트|[Java](10주차/텀%20프로젝트)|그래프, 깊이 우선 탐색|Gold 4|
