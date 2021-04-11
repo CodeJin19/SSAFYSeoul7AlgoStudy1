@@ -15,13 +15,23 @@
   </tr>
 </table>
 
+## 현재까지 푼 문제 수 (총 55문제)
 
-
-## 현재까지 푼 문제 수 (총 49문제)
-
-* `Baekjoon` : **32**문제
+* `Baekjoon` : **38**문제
 * `Programmers` : **6**문제
 * `SWExpert` : **11**문제
+
+---
+
+### 11주차 (4/13, 4/16, 4/18)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/17281)|⚾|[Java](11주차/⚾%EF%B8%8F)|구현, 브루트포스|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/9465)|스티커|[Java](11주차/스티커)|다이나믹 프로그래밍|Silver 2|
+|[Baekjoon](https://www.acmicpc.net/problem/3980)|선발 명단|[Java](11주차/선발%20명단)|브루트포스, 백트래킹|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/6987)|월드컵|[Java](11주차/월드컵)|브루트포스, 백트래킹|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/10836)|여왕벌|[Java](11주차/여왕벌)|구현, 시뮬레이션|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1764)|듣보잡|[Java](11주차/듣보잡)|자료 구조, 문자열, 정렬|Silver 4|
 
 ---
 
@@ -126,21 +136,17 @@
 |[Baekjoon](https://www.acmicpc.net/problem/9466)|텀 프로젝트|[Java](10주차/텀%20프로젝트)|그래프, 깊이 우선 탐색|Gold 4|
 
 ### 11주차 (4/13, 4/16, 4/18)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/17281)|⚾|[Java](11주차/⚾%EF%B8%8F)|구현, 브루트포스|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/9465)|스티커|[Java](11주차/스티커)|다이나믹 프로그래밍|Silver 2|
+|[Baekjoon](https://www.acmicpc.net/problem/3980)|선발 명단|[Java](11주차/선발%20명단)|브루트포스, 백트래킹|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/6987)|월드컵|[Java](11주차/월드컵)|브루트포스, 백트래킹|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/10836)|여왕벌|[Java](11주차/여왕벌)|구현, 시뮬레이션|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1764)|듣보잡|[Java](11주차/듣보잡)|자료 구조, 문자열, 정렬|Silver 4|
 
 ### 12주차 (4/20, 4/23, 4/25)
 
 ### 13주차 (4/17, 4/30, 5/2)
 
 </details>
-
----
-
-### 10주차 (4/6, 4/8, 4/11)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/2865)|나는 위대한 슈퍼스타K|[Java](10주차/나는%20위대한%20슈퍼스타K)|그리디, 정렬, 우선순위 큐|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/9655)|돌 게임|[Java](10주차/돌%20게임)|수학, 다이나믹 프로그래밍|Silver 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1495)|기타리스트|[Java](10주차/기타리스트)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2602)|돌다리 건너기|[Java](10주차/돌다리%20건너기)|다이나믹 프로그래밍|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/12761)|돌다리|[Java](10주차/돌다리)|그래프, 너비 우선 탐색|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/9466)|텀 프로젝트|[Java](10주차/텀%20프로젝트)|그래프, 깊이 우선 탐색|Gold 4|
