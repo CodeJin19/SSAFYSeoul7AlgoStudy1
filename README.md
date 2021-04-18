@@ -23,15 +23,15 @@
 
 ---
 
-### 11주차 (4/13, 4/16, 4/18)
+### 12주차 (4/20, 4/23, 4/25)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/17281)|⚾|[Java](11주차/⚾%EF%B8%8F)|구현, 브루트포스|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/9465)|스티커|[Java](11주차/스티커)|다이나믹 프로그래밍|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/3980)|선발 명단|[Java](11주차/선발%20명단)|브루트포스, 백트래킹|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/6987)|월드컵|[Java](11주차/월드컵)|브루트포스, 백트래킹|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/10836)|여왕벌|[Java](11주차/여왕벌)|구현, 시뮬레이션|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1764)|듣보잡|[Java](11주차/듣보잡)|자료 구조, 문자열, 정렬|Silver 4|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064)|불량 사용자|[Java](12주차/불량%20사용자)||Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|[Java](12주차/단체사진%20찍기)||Level 2|
+|[Baekjoon](https://www.acmicpc.net/problem/2660)|회장뽑기|[Java](12주차/회장뽑기)|그래프, 너비 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1965)|상자넣기|[Java](12주차/상자넣기)|다이나믹 프로그래밍|Silver 2|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[Java](12주차/경주로%20건설)||Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[Java](12주차/구명보트)|그리디|Level 2|
 
 ---
 
@@ -146,6 +146,14 @@
 |[Baekjoon](https://www.acmicpc.net/problem/1764)|듣보잡|[Java](11주차/듣보잡)|자료 구조, 문자열, 정렬|Silver 4|
 
 ### 12주차 (4/20, 4/23, 4/25)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064)|불량 사용자|[Java](12주차/불량%20사용자)||Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|[Java](12주차/단체사진%20찍기)||Level 2|
+|[Baekjoon](https://www.acmicpc.net/problem/2660)|회장뽑기|[Java](12주차/회장뽑기)|그래프, 너비 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1965)|상자넣기|[Java](12주차/상자넣기)|다이나믹 프로그래밍|Silver 2|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[Java](12주차/경주로%20건설)||Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[Java](12주차/구명보트)|그리디|Level 2|
 
 ### 13주차 (4/17, 4/30, 5/2)
 
