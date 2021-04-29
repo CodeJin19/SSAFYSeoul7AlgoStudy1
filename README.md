@@ -37,31 +37,39 @@
     <summary>1주차 ~ 4주차 (2021년 2월)</summary>
     
 ### 1주차 (2/5, 2/7)
-- [Baekjoon - 피자 (Small)](https://www.acmicpc.net/problem/14606)
-- [Baekjoon - 후위 표기식](https://www.acmicpc.net/problem/1918)
-- [Baekjoon - 후위 표기식2](https://www.acmicpc.net/problem/1935)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/14606)|피자 (Small)|다이나믹 프로그래밍|Silver 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1918)|후위 표기식|자료 구조, 스택|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1935)|후위 표기식2|자료 구조, 스택|Silver 3|
 
 ### 2주차 (2/10, 2/14)
-- [Baekjoon - 암호 만들기](https://www.acmicpc.net/problem/1759)
-- [Baekjoon - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
-- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/1759)|암호 만들기|브루트포스, 백트래킹|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|자료 구조, 큐|Silver 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|자료 구조, 덱|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/5430)|AC|구현, 자료 구조, 문자열|Silver 2|
 
 ### 3주차 (2/16, 2/19, 2/21)
-- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
-- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
-- [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
-- [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
-- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/14503)|로봇 청소기|구현, 시뮬레이션|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1987)|알파벳|깊이 우선 탐색, 백트래킹|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/9613)|GCD 합|수학, 유클리드 호제법|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/16918)|봄버맨|구현, 그래프, 너비 우선 탐색|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|그래프, 너비 우선 탐색|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/13410)|거꾸로 구구단|브루트포스|Bronze 2|
 
 ### 4주차 (2/23, 2/25, 2/28)
-- [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
-- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
-- [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
-- [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
-- [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
-- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7576)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)|부먹왕국의 차원 관문||D3|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)|삼성시의 버스 노선||D3|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)|의석이의 세로로 말해요||D3|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)|성공적인 공연 기획||D3|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)|테네스의 특별한 소수||D3|
+|[Baekjoon](https://www.acmicpc.net/problem/7576)|토마토|너비 우선 탐색, 그래프|Silver 1|
 
 </details>
 
@@ -104,7 +112,7 @@
 |Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
 |Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
 |Programmers|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|그리디|Level 2|
-|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||Level 2|
+|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|정렬, 자료 구조|Level 2|
 |Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
 |Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
 
@@ -114,7 +122,7 @@
 |Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
 |Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
 |Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시|Level 2|
-|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||Level 2|
+|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|자료 구조, 구현|Level 2|
 |Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
 |Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
   
