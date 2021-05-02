@@ -15,21 +15,26 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 67문제)
+## 현재까지 푼 문제 수 (총 71문제)
 
-* `Baekjoon` : **46**문제
+* `Baekjoon` : **50**문제
 * `Programmers` : **10**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 13주차 (4/27, 4/29, 5/2)
+### 14주차 (5/4, 5/6, 5/9)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|[Java](13주차/숨바꼭질%203)|그래프, 너비 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16947)|서울 지하철 2호선|[Java](13주차/서울%20지하철%202호선)|너비 우선 탐색, 깊이 우선 탐색|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/1932)|정수 삼각형|[Java](13주차/정수%20삼각형)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/8980)|택배|[Java](13주차/택배)|그리디, 정렬|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%2금요일)|브루트포스|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/14938)|서강그라운드|[Java](14주차/서강그라운드)|그래프, 다익스트라, 플로이드-와샬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1931)|회의실 배정|[Java](14주차/회의실%20배정)|그리디, 정렬|Silver 2|
+|[Baekjoon](https://www.acmicpc.net/problem/1043)|거짓말|[Java](14주차/거짓말)|그래프, 분리 집합|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1013)|Contact|[Java](14주차/Contact)|문자열, 정규 표현식|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/8972)|미친 아두이노|[Java](14주차/미친%20아두이노)|구현, 시뮬레이션|Gold 4|
+
+
+
 
 ---
 
@@ -158,15 +163,38 @@
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|[Java](12주차/단체사진%20찍기)|브루트포스|Level 2|
 |[Baekjoon](https://www.acmicpc.net/problem/2660)|회장뽑기|[Java](12주차/회장뽑기)|그래프, 너비 우선 탐색|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/1965)|상자넣기|[Java](12주차/상자넣기)|다이나믹 프로그래밍|Silver 2|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[Java](12주차/경주로%20건설)|그래프, 너비 우선 탐색|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[Java](12주차/구명보트)|그리디|Level 2|
 
 ### 13주차 (4/27, 4/29, 5/2)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[Java](12주차/경주로%20건설)|그래프, 너비 우선 탐색|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[Java](12주차/구명보트)|그리디|Level 2|
 |[Baekjoon](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|[Java](13주차/숨바꼭질%203)|그래프, 너비 우선 탐색|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/16947)|서울 지하철 2호선|[Java](13주차/서울%20지하철%202호선)|너비 우선 탐색, 깊이 우선 탐색|Gold 3|
 |[Baekjoon](https://www.acmicpc.net/problem/1932)|정수 삼각형|[Java](13주차/정수%20삼각형)|다이나믹 프로그래밍|Silver 1|
 |[Baekjoon](https://www.acmicpc.net/problem/8980)|택배|[Java](13주차/택배)|그리디, 정렬|Gold 3|
 
+</details>
+
+
+<details>
+  <summary>14주차 ~ 17주차 (2021년 5월)</summary>
+  
+  
+### 14주차 (5/4, 5/6, 5/9)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%2금요일)|브루트포스|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/14938)|서강그라운드|[Java](14주차/서강그라운드)|그래프, 다익스트라, 플로이드-와샬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1931)|회의실 배정|[Java](14주차/회의실%20배정)|그리디, 정렬|Silver 2|
+|[Baekjoon](https://www.acmicpc.net/problem/1043)|거짓말|[Java](14주차/거짓말)|그래프, 분리 집합|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1013)|Contact|[Java](14주차/Contact)|문자열, 정규 표현식|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/8972)|미친 아두이노|[Java](14주차/미친%20아두이노)|구현, 시뮬레이션|Gold 4|
+
+### 15주차 (5/11, 5/14, 5/16)
+
+### 16주차 (5/18, 5/21, 5/23)
+
+### 17주차 (5/25, 5/28, 5/30)
+  
 </details>
