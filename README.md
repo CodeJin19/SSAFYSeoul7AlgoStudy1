@@ -15,26 +15,23 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 71문제)
+## 현재까지 푼 문제 수 (총 77문제)
 
-* `Baekjoon` : **50**문제
+* `Baekjoon` : **56**문제
 * `Programmers` : **10**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 14주차 (5/4, 5/6, 5/9)
+### 15주차 (5/11, 5/14, 5/16)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%2금요일)|브루트포스|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/14938)|서강그라운드|[Java](14주차/서강그라운드)|그래프, 다익스트라, 플로이드-와샬|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1931)|회의실 배정|[Java](14주차/회의실%20배정)|그리디, 정렬|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/1043)|거짓말|[Java](14주차/거짓말)|그래프, 분리 집합|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1013)|Contact|[Java](14주차/Contact)|문자열, 정규 표현식|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/8972)|미친 아두이노|[Java](14주차/미친%20아두이노)|구현, 시뮬레이션|Gold 4|
-
-
-
+|[Baekjoon](https://www.acmicpc.net/problem/15685)|드래곤 커브|[Java](15주차/드래곤%20커브)|구현, 시뮬레이션|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2156)|포도주 시식|[Java](15주차/포도주%20시식)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/20191)|줄임말|[Java](15주차/줄임말)|다이나믹 프로그래밍, 문자열, 두 포인터|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/2668)|숫자고르기|[Java](15주차/숫자고르기)|그래프, 깊이 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/2109)|순회강연|[Java](15주차/순회강연)|자료 구조, 그리디, 정렬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2473)|세 용액|[Java](15주차/세%20용액)|정렬, 이분 탐색, 두 포인터|Gold 4|
 
 ---
 
@@ -184,7 +181,7 @@
 ### 14주차 (5/4, 5/6, 5/9)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%2금요일)|브루트포스|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%20금요일)|브루트포스|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/14938)|서강그라운드|[Java](14주차/서강그라운드)|그래프, 다익스트라, 플로이드-와샬|Gold 4|
 |[Baekjoon](https://www.acmicpc.net/problem/1931)|회의실 배정|[Java](14주차/회의실%20배정)|그리디, 정렬|Silver 2|
 |[Baekjoon](https://www.acmicpc.net/problem/1043)|거짓말|[Java](14주차/거짓말)|그래프, 분리 집합|Gold 4|
@@ -192,6 +189,14 @@
 |[Baekjoon](https://www.acmicpc.net/problem/8972)|미친 아두이노|[Java](14주차/미친%20아두이노)|구현, 시뮬레이션|Gold 4|
 
 ### 15주차 (5/11, 5/14, 5/16)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/15685)|드래곤 커브|[Java](15주차/드래곤%20커브)|구현, 시뮬레이션|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2156)|포도주 시식|[Java](15주차/포도주%20시식)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/20191)|줄임말|[Java](15주차/줄임말)|다이나믹 프로그래밍, 문자열, 두 포인터|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/2668)|숫자고르기|[Java](15주차/숫자고르기)|그래프, 깊이 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/2109)|순회강연|[Java](15주차/순회강연)|자료 구조, 그리디, 정렬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2473)|세 용액|[Java](15주차/세%20용액)|정렬, 이분 탐색, 두 포인터|Gold 4|
 
 ### 16주차 (5/18, 5/21, 5/23)
 
