@@ -26,7 +26,7 @@
 ### 16주차 (5/19, 5/22)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1436)|영화감독 숌[Java](16주차/영화감독%20숌)|브루트포스|Silver 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1436)|영화감독 숌|[Java](16주차/영화감독%20숌)|브루트포스|Silver 5|
 |[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
 |[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
