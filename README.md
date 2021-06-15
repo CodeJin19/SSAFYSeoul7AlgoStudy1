@@ -23,15 +23,11 @@
 
 ---
 
-### 17주차 (6/8, 6/11, 6/13)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-| [Baekjoon](https://www.acmicpc.net/problem/5427)                        | 불                           | [Java](Baekjoon/BJ5427_불.java)                      | 그래프, 너비 우선 탐색               | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/1826)                        | 연료 채우기                  | [Java](Baekjoon/BJ1826_연료채우기.java)              | 자료 구조, 그리디, 정렬, 우선순위 큐 | Gold 3   |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) | 위장                         | [Java](Programmers/PG_해시_위장.java)                | 자료 구조, 해시                      | Level 2  |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](Programmers/PG_행렬테두리회전하기.java)       | 구현, 시뮬레이션                     | Level 2  |
-| [Baekjoon](https://www.acmicpc.net/problem/1756)                        | 피자 굽기                    | [Java](Baekjoon/BJ1756_피자굽기.java)                | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/1011)                        | Fly me to the Alpha Centauri | [Java](Baekjoon/BJ1011_FlymetotheAlphaCentauri.java) | 수학                                 | Silver 1 |
+### 18주차 (6/15, 6/18, 6/20)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
 
 ---
 
@@ -205,5 +201,15 @@
 |[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
 |[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
+  
+### 17주차 (6/8, 6/11, 6/13)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/5427)|불|[Java](17주차/불)|그래프, 너비 우선 탐색|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/1826)|연료 채우기|[Java](17주차/연료%20채우기)|자료 구조, 그리디, 정렬, 우선순위 큐|Gold 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[Java](17주차/위장)|자료 구조, 해시|Level 2|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[Java](17주차/행렬%20테두리%20회전하기)|구현, 시뮬레이션|Level 2|
+|[Baekjoon](https://www.acmicpc.net/problem/1756)|피자 굽기|[Java](17주차/피자%20굽기)|구현, 시뮬레이션, 이분 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/BJ1011_Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
   
 </details>
