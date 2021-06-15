@@ -11,7 +11,6 @@
     <td align="center"><a href="https://github.com/wonjwi"><img src="https://avatars.githubusercontent.com/u/69590041?s=460&u=b432ff3d3e5a5e06dac7782275dac216bbb1e976&v=4" width="100px;" alt=""/><br /><sub><b>wonjwi</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></sub></a><br /></td>
     <td align="center"><a href="https://github.com/alswnfkrn"><img src="https://avatars.githubusercontent.com/u/78595563?s=460&v=4" width="100px;" alt=""/><br /><sub><b>alswnfkrn</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></a><br /></td>
     <td align="center"><a href="https://github.com/wonsunn"><img src="https://avatars.githubusercontent.com/u/47625368?s=460&v=4" width="100px;" alt=""/><br /><sub><b>wonsunn</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></a><br /></td>
-        <td align="center"><a href="https://github.com/pjx256"><img src="https://avatars.githubusercontent.com/u/64675014?s=460&v=4" width="100px;" alt=""/><br /><sub><b>pjx256</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></sub></a><br /></td>
   </tr>
 </table>
 
@@ -210,6 +209,6 @@
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[Java](17주차/위장)|자료 구조, 해시|Level 2|
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[Java](17주차/행렬%20테두리%20회전하기)|구현, 시뮬레이션|Level 2|
 |[Baekjoon](https://www.acmicpc.net/problem/1756)|피자 굽기|[Java](17주차/피자%20굽기)|구현, 시뮬레이션, 이분 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/BJ1011_Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
   
 </details>
