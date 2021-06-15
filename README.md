@@ -27,6 +27,10 @@
 |---|---|---|---|---|
 |[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
 |[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[Java](18주차/계란으로%20계란치기)|브루트포스, 백트래킹|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래피, 위상 정렬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/14226)|이모티콘|[Java](18주차/이모티콘)|다이나믹 프로그래밍, 그래프, 너비 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/14719)|빗물|[Java](18주차/빗물)|구현, 시뮬레이션|Gold 5|
 
 ---
 
