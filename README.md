@@ -172,10 +172,8 @@
 
 </details>
 
-
 <details>
-  <summary>14주차 ~ 17주차 (2021년 5월)</summary>
-  
+  <summary>14주차 ~ 16주차 (2021년 5월)</summary>
   
 ### 14주차 (5/4, 5/6, 5/9)
 |사이트|문제|풀이|알고리즘|난이도|
@@ -205,6 +203,11 @@
 |[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
   
+</details>
+
+<details>
+  <summary>17주차 ~ 20주차 (2021년 6월)</summary>
+  
 ### 17주차 (6/8, 6/11, 6/13)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
@@ -214,5 +217,15 @@
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[Java](17주차/행렬%20테두리%20회전하기)|구현, 시뮬레이션|Level 2|
 |[Baekjoon](https://www.acmicpc.net/problem/1756)|피자 굽기|[Java](17주차/피자%20굽기)|구현, 시뮬레이션, 이분 탐색|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
+  
+### 18주차 (6/15, 6/18, 6/20)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[Java](18주차/계란으로%20계란치기)|브루트포스, 백트래킹|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래피, 위상 정렬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/14226)|이모티콘|[Java](18주차/이모티콘)|다이나믹 프로그래밍, 그래프, 너비 우선 탐색|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/14719)|빗물|[Java](18주차/빗물)|구현, 시뮬레이션|Gold 5|
   
 </details>
