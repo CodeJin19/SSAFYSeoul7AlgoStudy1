@@ -23,13 +23,16 @@
 
 ---
 
-### 16주차 (5/19, 5/22)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1436)|영화감독 숌|[Java](16주차/영화감독%20숌)|브루트포스|Silver 5|
-|[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
+### 17주차 (6/8, 6/11, 6/13)
+### 1주차 (2/5, 2/7)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+| [Baekjoon](https://www.acmicpc.net/problem/5427)                        | 불                           | [Java](Baekjoon/BJ5427_불.java)                      | 그래프, 너비 우선 탐색               | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1826)                        | 연료 채우기                  | [Java](Baekjoon/BJ1826_연료채우기.java)              | 자료 구조, 그리디, 정렬, 우선순위 큐 | Gold 3   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) | 위장                         | [Java](Programmers/PG_해시_위장.java)                | 자료 구조, 해시                      | Level 2  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](Programmers/PG_행렬테두리회전하기.java)       | 구현, 시뮬레이션                     | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/1756)                        | 피자 굽기                    | [Java](Baekjoon/BJ1756_피자굽기.java)                | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1011)                        | Fly me to the Alpha Centauri | [Java](Baekjoon/BJ1011_FlymetotheAlphaCentauri.java) | 수학                                 | Silver 1 |
 
 ---
 
@@ -196,14 +199,12 @@
 |[Baekjoon](https://www.acmicpc.net/problem/2109)|순회강연|[Java](15주차/순회강연)|자료 구조, 그리디, 정렬|Gold 4|
 |[Baekjoon](https://www.acmicpc.net/problem/2473)|세 용액|[Java](15주차/세%20용액)|정렬, 이분 탐색, 두 포인터|Gold 4|
 
-### 16주차 (5/19, 5/22)
+### 16주차 (5/19, 6/6)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
 |[Baekjoon](https://www.acmicpc.net/problem/1436)|영화감독 숌|[Java](16주차/영화감독%20숌)|브루트포스|Silver 5|
 |[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
 |[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
-
-### 17주차 (5/25, 5/28, 5/30)
   
 </details>
