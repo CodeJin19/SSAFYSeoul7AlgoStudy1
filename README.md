@@ -14,23 +14,23 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 93문제)
+## 현재까지 푼 문제 수 (총 99문제)
 
-* `Baekjoon` : **70**문제
+* `Baekjoon` : **76**문제
 * `Programmers` : **12**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 18주차 (6/15, 6/18, 6/20)
+### 19주차 (6/22, 6/25, 6/27)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[Java](18주차/계란으로%20계란치기)|브루트포스, 백트래킹|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래피, 위상 정렬|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/14226)|이모티콘|[Java](18주차/이모티콘)|다이나믹 프로그래밍, 그래프, 너비 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/14719)|빗물|[Java](18주차/빗물)|구현, 시뮬레이션|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1484)|다이어트|[Java](19주차/다이어트)|수학, 두 포인터|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2665)|미로만들기|[Java](19주차/미로만들기)|그래프, 너비 우선 탐색, 다익스트라|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/7573)|고기잡이|[Java](19주차/고기잡이)|브루트포스|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
 
 ---
 
@@ -224,8 +224,18 @@
 |[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
 |[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
 |[Baekjoon](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[Java](18주차/계란으로%20계란치기)|브루트포스, 백트래킹|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래피, 위상 정렬|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래프, 위상 정렬|Gold 4|
 |[Baekjoon](https://www.acmicpc.net/problem/14226)|이모티콘|[Java](18주차/이모티콘)|다이나믹 프로그래밍, 그래프, 너비 우선 탐색|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/14719)|빗물|[Java](18주차/빗물)|구현, 시뮬레이션|Gold 5|
+
+### 19주차 (6/22, 6/25, 6/27)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/1484)|다이어트|[Java](19주차/다이어트)|수학, 두 포인터|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2665)|미로만들기|[Java](19주차/미로만들기)|그래프, 너비 우선 탐색, 다익스트라|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/7573)|고기잡이|[Java](19주차/고기잡이)|브루트포스|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
   
 </details>
