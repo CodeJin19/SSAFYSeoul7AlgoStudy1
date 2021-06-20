@@ -10,7 +10,7 @@ public class 작업_BJ2056 {
 		int N = Integer.parseInt(in.readLine());
 		int [] time = new int[N+1]; //작업 시간만 저장
 		int [] dp = new int[N+1]; //각 작업이 끝나는 시간 저장
-		ArrayList<ArrayList<Integer>> pre = new ArrayList<>(); //선행 작업번호 저장
+		ArrayList<ArrayList<Integer>> pre = new ArrayList<>(); //선행 작업번호 저장->저장 안해줘도 됨!
 		
 		for(int i = 1; i<=N; i++) {
 			StringTokenizer st = new StringTokenizer(in.readLine());

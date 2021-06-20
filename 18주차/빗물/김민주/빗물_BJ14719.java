@@ -33,6 +33,7 @@ public class 빗물_BJ14719 {
 			}
 			int val = (left >= right) ? right : left;
 			if(val >= map[i]) {
+//				무쓸모 visited
 //				for(int j = map[i]; j<val; j++) {
 //					if(!visited[j][i]) {
 //						cnt++;

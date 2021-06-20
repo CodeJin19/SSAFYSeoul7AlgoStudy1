@@ -5,7 +5,7 @@ import java.util.*;
 
 public class 행성연결_BJ16398 {
    
-	static class Edge implements Comparable<Edge> {
+static class Edge implements Comparable<Edge> {
         int from, to, weight;
 
         public Edge(int start, int end, int weight) {
@@ -51,7 +51,7 @@ public class 행성연결_BJ16398 {
         	StringTokenizer st = new StringTokenizer(in.readLine());
             for (int j = 0; j < N; j++) {
                 int weight = Integer.parseInt(st.nextToken());
-                if (weight != 0) { // 연결 가능한 경우
+                if (weight != 0) { // 연결 가능한 경우?
                     edgeList.add(new Edge(i, j, weight));
                 }
             }

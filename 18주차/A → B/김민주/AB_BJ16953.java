@@ -2,7 +2,7 @@ package com.ssafy.baekjoon;
 
 import java.io.*;
 import java.util.*;
-
+//A->B
 public class AB_BJ16953 {
 
 	public static void main(String[] args) throws IOException {

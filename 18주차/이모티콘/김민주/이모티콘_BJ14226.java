@@ -25,7 +25,7 @@ public class 이모티콘_BJ14226 {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		S = Integer.parseInt(in.readLine());
 		q = new LinkedList<Emo>();
-		// 최초 화면 1개
+		// 최초 화면 1개;
 		q.offer(new Emo(1, 0, 0));
 		visited[1][0] = true;
 
