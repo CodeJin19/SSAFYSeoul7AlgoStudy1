@@ -14,23 +14,23 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 99문제)
+## 현재까지 푼 문제 수 (총 105문제)
 
-* `Baekjoon` : **76**문제
+* `Baekjoon` : **82**문제
 * `Programmers` : **12**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 19주차 (6/22, 6/25, 6/27)
+### 20주차 (6/30, 7/2, 7/4)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1484)|다이어트|[Java](19주차/다이어트)|수학, 두 포인터|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/2665)|미로만들기|[Java](19주차/미로만들기)|그래프, 너비 우선 탐색, 다익스트라|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/7573)|고기잡이|[Java](19주차/고기잡이)|브루트포스|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|[Java](20주차/여행경로)|깊이 우선 탐색|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[Java](20주차/N-Queen)|브루트포스, 백트래킹|Level 3|
+|[Baekjoon](https://www.acmicpc.net/problem/11062)|카드 게임|[Java](20주차/카드%20게임)|다이나믹 프로그래밍, 게임 이론|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/2573)|빙산|[Java](20주차/빙산)|구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색|Gold 4|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[Java](20주차/등굣길)|다이나믹 프로그래밍|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[Java](20주차/순위)|그래프|Level 3|
 
 ---
 
@@ -237,5 +237,15 @@
 |[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
 |[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
+  
+### 20주차 (6/30, 7/2, 7/4)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|[Java](20주차/여행경로)|깊이 우선 탐색|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[Java](20주차/N-Queen)|브루트포스, 백트래킹|Level 3|
+|[Baekjoon](https://www.acmicpc.net/problem/11062)|카드 게임|[Java](20주차/카드%20게임)|다이나믹 프로그래밍, 게임 이론|Gold 3|
+|[Baekjoon](https://www.acmicpc.net/problem/2573)|빙산|[Java](20주차/빙산)|구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색|Gold 4|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[Java](20주차/등굣길)|다이나믹 프로그래밍|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[Java](20주차/순위)|그래프|Level 3|
   
 </details>
