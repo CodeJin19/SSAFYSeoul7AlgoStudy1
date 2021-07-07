@@ -14,29 +14,27 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 105문제)
+## 현재까지 푼 문제 수 (총 111문제)
 
-* `Baekjoon` : **82**문제
-* `Programmers` : **12**문제
+* `Baekjoon` : **84**문제
+* `Programmers` : **16**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 20주차 (6/30, 7/2, 7/4)
+### 21주차 (7/7, 7/11)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|[Java](20주차/여행경로)|깊이 우선 탐색|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[Java](20주차/N-Queen)|브루트포스, 백트래킹|Level 3|
-|[Baekjoon](https://www.acmicpc.net/problem/11062)|카드 게임|[Java](20주차/카드%20게임)|다이나믹 프로그래밍, 게임 이론|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/2573)|빙산|[Java](20주차/빙산)|구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색|Gold 4|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[Java](20주차/등굣길)|다이나믹 프로그래밍|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[Java](20주차/순위)|그래프|Level 3|
+|[Baekjoon](https://www.acmicpc.net/problem/1720)|타일 코드|[Java](21주차/타일%20코드)|다이나믹 프로그래밍|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1389)|케빈 베이컨의 6단계 법칙|[Java](21주차/케빈%20베이컨의%206단계%20법칙)|그래프, 플로이드 와샬, 너비 우선 탐색|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2482)|색상환|[Java](21주차/색상환)| 다이나믹 프로그래밍                   |Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/21608)|상어 초등학교|[Java](21주차/상어%20초등학교)|구현|Silver 1|
 
 ---
 
 <details>
     <summary>1주차 ~ 4주차 (2021년 2월)</summary>
-    
+
 ### 1주차 (2/5, 2/7)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
@@ -126,7 +124,7 @@
 |Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|자료 구조, 구현|Level 2|
 |Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
 |Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
-  
+
 </details>
 
 <details>
@@ -174,7 +172,7 @@
 
 <details>
   <summary>14주차 ~ 16주차 (2021년 5월)</summary>
-  
+
 ### 14주차 (5/4, 5/6, 5/9)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
@@ -202,12 +200,12 @@
 |[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
 |[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
-  
+
 </details>
 
 <details>
   <summary>17주차 ~ 20주차 (2021년 6월)</summary>
-  
+
 ### 17주차 (6/8, 6/11, 6/13)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
@@ -217,7 +215,7 @@
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[Java](17주차/행렬%20테두리%20회전하기)|구현, 시뮬레이션|Level 2|
 |[Baekjoon](https://www.acmicpc.net/problem/1756)|피자 굽기|[Java](17주차/피자%20굽기)|구현, 시뮬레이션, 이분 탐색|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
-  
+
 ### 18주차 (6/15, 6/18, 6/20)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
@@ -237,7 +235,7 @@
 |[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
 |[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
 |[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
-  
+
 ### 20주차 (6/30, 7/2, 7/4)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
@@ -247,5 +245,19 @@
 |[Baekjoon](https://www.acmicpc.net/problem/2573)|빙산|[Java](20주차/빙산)|구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색|Gold 4|
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[Java](20주차/등굣길)|다이나믹 프로그래밍|Level 3|
 |[Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[Java](20주차/순위)|그래프|Level 3|
-  
+
+</details>
+
+<details>
+  <summary>21주차 ~ 24주차 (2021년 7월)</summary>
+
+### 21주차 (7/7, 7/11)
+
+| 사이트                                            | 문제                     | 풀이                                          | 알고리즘                              | 난이도   |
+| ------------------------------------------------- | ------------------------ | --------------------------------------------- | ------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](21주차/타일%20코드)                    | 다이나믹 프로그래밍                   | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](21주차/케빈%20베이컨의%206단계%20법칙) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](21주차/색상환)                         | 다이나믹 프로그래밍                   | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](21주차/상어%20초등학교)                | 구현                                  | Silver 1 |
+
 </details>
