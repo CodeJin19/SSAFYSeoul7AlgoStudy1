@@ -14,21 +14,21 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 111문제)
+## 현재까지 푼 문제 수 (총 115문제)
 
-* `Baekjoon` : **84**문제
+* `Baekjoon` : **88**문제
 * `Programmers` : **16**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 21주차 (7/7, 7/11)
+### 22주차 (7/14, 7/18)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1720)|타일 코드|[Java](21주차/타일%20코드)|다이나믹 프로그래밍|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1389)|케빈 베이컨의 6단계 법칙|[Java](21주차/케빈%20베이컨의%206단계%20법칙)|그래프, 플로이드 와샬, 너비 우선 탐색|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2482)|색상환|[Java](21주차/색상환)| 다이나믹 프로그래밍                   |Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/21608)|상어 초등학교|[Java](21주차/상어%20초등학교)|구현|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/1946)|신입 사원|[Java](22주차/신입%20사원)|그리디, 정렬|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/1034)|램프|[Java](22주차/램프)|브루트포스|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/16198)|에너지 모으기|[Java](22주차/에너지%20모으기)|브루트포스, 백트래킹, 재귀|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/16472)|고냥이|[Java](22주차/고냥이)|이분 탐색, 두 포인터|Gold 3|
 
 ---
 
@@ -252,12 +252,19 @@
   <summary>21주차 ~ 24주차 (2021년 7월)</summary>
 
 ### 21주차 (7/7, 7/11)
-
-| 사이트                                            | 문제                     | 풀이                                          | 알고리즘                              | 난이도   |
-| ------------------------------------------------- | ------------------------ | --------------------------------------------- | ------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](21주차/타일%20코드)                    | 다이나믹 프로그래밍                   | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](21주차/케빈%20베이컨의%206단계%20법칙) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](21주차/색상환)                         | 다이나믹 프로그래밍                   | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](21주차/상어%20초등학교)                | 구현                                  | Silver 1 |
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/1720)|타일 코드|[Java](21주차/타일%20코드)|다이나믹 프로그래밍|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/1389)|케빈 베이컨의 6단계 법칙|[Java](21주차/케빈%20베이컨의%206단계%20법칙)|그래프, 플로이드 와샬, 너비 우선 탐색|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2482)|색상환|[Java](21주차/색상환)|다이나믹 프로그래밍|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/21608)|상어 초등학교|[Java](21주차/상어%20초등학교)|구현|Silver 1|
+  
+### 22주차 (7/14, 7/18)
+|사이트|문제|풀이|알고리즘|난이도|
+|---|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/1946)|신입 사원|[Java](22주차/신입%20사원)|그리디, 정렬|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/1034)|램프|[Java](22주차/램프)|브루트포스|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/16198)|에너지 모으기|[Java](22주차/에너지%20모으기)|브루트포스, 백트래킹, 재귀|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/16472)|고냥이|[Java](22주차/고냥이)|이분 탐색, 두 포인터|Gold 3|
 
 </details>
