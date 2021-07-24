@@ -14,21 +14,21 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 115문제)
+## 현재까지 푼 문제 수 (총 119문제)
 
-* `Baekjoon` : **88**문제
+* `Baekjoon` : **92**문제
 * `Programmers` : **16**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 22주차 (7/14, 7/18)
+### 23주차 (7/21, 7/25)
 |사이트|문제|풀이|알고리즘|난이도|
 |---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1946)|신입 사원|[Java](22주차/신입%20사원)|그리디, 정렬|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/1034)|램프|[Java](22주차/램프)|브루트포스|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16198)|에너지 모으기|[Java](22주차/에너지%20모으기)|브루트포스, 백트래킹, 재귀|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/16472)|고냥이|[Java](22주차/고냥이)|이분 탐색, 두 포인터|Gold 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[Java](23주차/스티커%20모으기(2))|다이나믹 프로그래밍|Level 3|
+|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[Java](23주차/카펫)|브루트포스|Level 2|
+|[Baekjoon](https://www.acmicpc.net/problem/6198)|옥상 정원 꾸미기|[Java](23주차/옥상%20정원%20꾸미기)|자료 구조, 스택|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/16235)|나무 재테크|[Java](23주차/나무%20재테크)|구현, 시뮬레이션|Gold 4|
 
 ---
 
