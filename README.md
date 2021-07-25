@@ -14,21 +14,21 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 119문제)
+## 현재까지 푼 문제 수 (총 123문제)
 
-* `Baekjoon` : **92**문제
-* `Programmers` : **16**문제
+* `Baekjoon` : **94**문제
+* `Programmers` : **18**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 23주차 (7/21, 7/25)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[Java](23주차/스티커%20모으기(2))|다이나믹 프로그래밍|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[Java](23주차/카펫)|브루트포스|Level 2|
-|[Baekjoon](https://www.acmicpc.net/problem/6198)|옥상 정원 꾸미기|[Java](23주차/옥상%20정원%20꾸미기)|자료 구조, 스택|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16235)|나무 재테크|[Java](23주차/나무%20재테크)|구현, 시뮬레이션|Gold 4|
+### 24주차 (7/28, 8/1)
+| 사이트                                           | 문제                      | 풀이                                             | 알고리즘             | 난이도   |
+| ------------------------------------------------ | ------------------------- | ------------------------------------------------ | -------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2792) | 보석 상자                 | [Java](24주차/보석%20상자)                       | 이분 탐색            | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](24주차/녹색%20옷%20입은%20애가%20젤다지?) | 그래프, 다익스트라   | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](24주차/나무꾼%20이다솜)                   | 구현, 브루트포스     | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](24주차/용액)                              | 이분 탐색, 두 포인터 | Gold 5   |
 
 ---
 
@@ -36,39 +36,39 @@
     <summary>1주차 ~ 4주차 (2021년 2월)</summary>
 
 ### 1주차 (2/5, 2/7)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/14606)|피자 (Small)|다이나믹 프로그래밍|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1918)|후위 표기식|자료 구조, 스택|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1935)|후위 표기식2|자료 구조, 스택|Silver 3|
+| 사이트                                            | 문제         | 알고리즘            | 난이도   |
+| ------------------------------------------------- | ------------ | ------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/14606) | 피자 (Small) | 다이나믹 프로그래밍 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1918)  | 후위 표기식  | 자료 구조, 스택     | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1935)  | 후위 표기식2 | 자료 구조, 스택     | Silver 3 |
 
 ### 2주차 (2/10, 2/14)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1759)|암호 만들기|브루트포스, 백트래킹|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|자료 구조, 큐|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|자료 구조, 덱|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/5430)|AC|구현, 자료 구조, 문자열|Silver 2|
+| 사이트                                            | 문제            | 알고리즘                | 난이도   |
+| ------------------------------------------------- | --------------- | ----------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1759)  | 암호 만들기     | 브루트포스, 백트래킹    | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/11866) | 요세푸스 문제 0 | 자료 구조, 큐           | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/2346)  | 풍선 터뜨리기   | 자료 구조, 덱           | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/5430)  | AC              | 구현, 자료 구조, 문자열 | Silver 2 |
 
 ### 3주차 (2/16, 2/19, 2/21)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/14503)|로봇 청소기|구현, 시뮬레이션|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1987)|알파벳|깊이 우선 탐색, 백트래킹|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/9613)|GCD 합|수학, 유클리드 호제법|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/16918)|봄버맨|구현, 그래프, 너비 우선 탐색|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|그래프, 너비 우선 탐색|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/13410)|거꾸로 구구단|브루트포스|Bronze 2|
+| 사이트                                            | 문제               | 알고리즘                     | 난이도   |
+| ------------------------------------------------- | ------------------ | ---------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/14503) | 로봇 청소기        | 구현, 시뮬레이션             | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1987)  | 알파벳             | 깊이 우선 탐색, 백트래킹     | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/9613)  | GCD 합             | 수학, 유클리드 호제법        | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16918) | 봄버맨             | 구현, 그래프, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2206)  | 벽 부수고 이동하기 | 그래프, 너비 우선 탐색       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/13410) | 거꾸로 구구단      | 브루트포스                   | Bronze 2 |
 
 ### 4주차 (2/23, 2/25, 2/28)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)|부먹왕국의 차원 관문||D3|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)|삼성시의 버스 노선||D3|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)|의석이의 세로로 말해요||D3|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)|성공적인 공연 기획||D3|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)|테네스의 특별한 소수||D3|
-|[Baekjoon](https://www.acmicpc.net/problem/7576)|토마토|너비 우선 탐색, 그래프|Silver 1|
+| 사이트                                                       | 문제                   | 알고리즘               | 난이도   |
+| ------------------------------------------------------------ | ---------------------- | ---------------------- | -------- |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy) | 부먹왕국의 차원 관문   |                        | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn) | 삼성시의 버스 노선     |                        | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) | 의석이의 세로로 말해요 |                        | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT) | 성공적인 공연 기획     |                        | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt) | 테네스의 특별한 소수   |                        | D3       |
+| [Baekjoon](https://www.acmicpc.net/problem/7576)             | 토마토                 | 너비 우선 탐색, 그래프 | Silver 1 |
 
 </details>
 
@@ -76,54 +76,54 @@
   <summary>5주차 ~ 9주차 (2021년 3월)</summary>
 
 ### 5주차 (3/2, 3/5, 3/7)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|Baekjoon|[아기 상어](https://www.acmicpc.net/problem/16236)|구현, 그래프, BFS|Gold 4|
-|Baekjoon|[행복 유치원](https://www.acmicpc.net/problem/13164)|그리디, 정렬|Silver 1|
-|Baekjoon|[청소년 상어](https://www.acmicpc.net/problem/19236)|구현, 백트래킹|Gold 2|
-|Baekjoon|[당근 키우기](https://www.acmicpc.net/problem/20363)|수학, 그리디|Silver 5|
-|Baekjoon|[연구소](https://www.acmicpc.net/problem/14502)|그래프, 브루트포스, BFS|Gold 5|
-|Baekjoon|[미로 탐색](https://www.acmicpc.net/problem/2178)|그래프, BFS|Silver 1|
+| 사이트   | 문제                                                 | 알고리즘                | 난이도   |
+| -------- | ---------------------------------------------------- | ----------------------- | -------- |
+| Baekjoon | [아기 상어](https://www.acmicpc.net/problem/16236)   | 구현, 그래프, BFS       | Gold 4   |
+| Baekjoon | [행복 유치원](https://www.acmicpc.net/problem/13164) | 그리디, 정렬            | Silver 1 |
+| Baekjoon | [청소년 상어](https://www.acmicpc.net/problem/19236) | 구현, 백트래킹          | Gold 2   |
+| Baekjoon | [당근 키우기](https://www.acmicpc.net/problem/20363) | 수학, 그리디            | Silver 5 |
+| Baekjoon | [연구소](https://www.acmicpc.net/problem/14502)      | 그래프, 브루트포스, BFS | Gold 5   |
+| Baekjoon | [미로 탐색](https://www.acmicpc.net/problem/2178)    | 그래프, BFS             | Silver 1 |
 
 ### 6주차 (3/9, 3/11, 3/14)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|Baekjoon|[퇴사](https://www.acmicpc.net/problem/14501)|DP, 브루트포스|Silver 4|
-|Baekjoon|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|그래프, BFS|Gold 4|
-|Programmers|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|스택, 큐|Level 2|
-|Programmers|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|스택, 큐|Level 1|
-|Baekjoon|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|구현, 비트마스킹|Silver 2|
-|Baekjoon|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|그래프, BFS|Gold 5|
+| 사이트      | 문제                                                         | 알고리즘         | 난이도   |
+| ----------- | ------------------------------------------------------------ | ---------------- | -------- |
+| Baekjoon    | [퇴사](https://www.acmicpc.net/problem/14501)                | DP, 브루트포스   | Silver 4 |
+| Baekjoon    | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)  | 그래프, BFS      | Gold 4   |
+| Programmers | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택, 큐         | Level 2  |
+| Programmers | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 스택, 큐         | Level 1  |
+| Baekjoon    | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | 구현, 비트마스킹 | Silver 2 |
+| Baekjoon    | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)    | 그래프, BFS      | Gold 5   |
 
 ### 7주차 (3/16, 3/18, 3/21)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|구현, 시뮬레이션|모의 SW 역량테스트|
-|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|브루트포스|모의 SW 역량테스트|
-|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
-|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
-|SWExpert|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
-|SWExpert|[물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)|그래프, BFS|D4|
+| 사이트   | 문제                                                         | 알고리즘         | 난이도             |
+| -------- | ------------------------------------------------------------ | ---------------- | ------------------ |
+| SWExpert | [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) | 브루트포스       | 모의 SW 역량테스트 |
+| SWExpert | [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST) | 그래프, BFS      | D4                 |
 
 ### 8주차 (3/23, 3/26, 3/28)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
-|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
-|Programmers|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|그리디|Level 2|
-|Programmers|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|정렬, 자료 구조|Level 2|
-|Baekjoon|[레이저 통신](https://www.acmicpc.net/problem/6087)|그래프, BFS|Gold 4|
-|Baekjoon|[근손실](https://www.acmicpc.net/problem/18429)|브루트포스, 백트래킹|Silver 3|
+| 사이트      | 문제                                                         | 알고리즘                 | 난이도   |
+| ----------- | ------------------------------------------------------------ | ------------------------ | -------- |
+| Baekjoon    | [도시 분할 계획](https://www.acmicpc.net/problem/1647)       | 그래프, 최소 스패닝 트리 | Gold 4   |
+| Baekjoon    | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    | 수학, 큰 수 연산         | Silver 3 |
+| Programmers | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 그리디                   | Level 2  |
+| Programmers | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 정렬, 자료 구조          | Level 2  |
+| Baekjoon    | [레이저 통신](https://www.acmicpc.net/problem/6087)          | 그래프, BFS              | Gold 4   |
+| Baekjoon    | [근손실](https://www.acmicpc.net/problem/18429)              | 브루트포스, 백트래킹     | Silver 3 |
 
 ### 9주차 (3/30, 4/1, 4/4)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|Baekjoon|[괄호](https://www.acmicpc.net/problem/10422)|수학, 다이나믹 프로그래밍, 조합론|Gold 4|
-|Baekjoon|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|그래프, BFS|Gold 5|
-|Programmers|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|해시|Level 2|
-|Programmers|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|자료 구조, 구현|Level 2|
-|Baekjoon|[해킹](https://www.acmicpc.net/problem/10282)|그래프, 다익스트라|Gold 4|
-|Baekjoon|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|수학, 다이나믹 프로그래밍|Silver 1|
+| 사이트      | 문제                                                         | 알고리즘                          | 난이도   |
+| ----------- | ------------------------------------------------------------ | --------------------------------- | -------- |
+| Baekjoon    | [괄호](https://www.acmicpc.net/problem/10422)                | 수학, 다이나믹 프로그래밍, 조합론 | Gold 4   |
+| Baekjoon    | [직사각형 탈출](https://www.acmicpc.net/problem/16973)       | 그래프, BFS                       | Gold 5   |
+| Programmers | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시                              | Level 2  |
+| Programmers | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 자료 구조, 구현                   | Level 2  |
+| Baekjoon    | [해킹](https://www.acmicpc.net/problem/10282)                | 그래프, 다익스트라                | Gold 4   |
+| Baekjoon    | [떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)       | 수학, 다이나믹 프로그래밍         | Silver 1 |
 
 </details>
 
@@ -131,42 +131,42 @@
   <summary>10주차 ~ 13주차 (2021년 4월)</summary>
 
 ### 10주차 (4/6, 4/8, 4/11)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/2865)|나는 위대한 슈퍼스타K|[Java](10주차/나는%20위대한%20슈퍼스타K)|그리디, 정렬, 우선순위 큐|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/9655)|돌 게임|[Java](10주차/돌%20게임)|수학, 다이나믹 프로그래밍|Silver 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1495)|기타리스트|[Java](10주차/기타리스트)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2602)|돌다리 건너기|[Java](10주차/돌다리%20건너기)|다이나믹 프로그래밍|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/12761)|돌다리|[Java](10주차/돌다리)|그래프, 너비 우선 탐색|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/9466)|텀 프로젝트|[Java](10주차/텀%20프로젝트)|그래프, 깊이 우선 탐색|Gold 4|
+| 사이트                                            | 문제                  | 풀이                                     | 알고리즘                  | 난이도   |
+| ------------------------------------------------- | --------------------- | ---------------------------------------- | ------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2865)  | 나는 위대한 슈퍼스타K | [Java](10주차/나는%20위대한%20슈퍼스타K) | 그리디, 정렬, 우선순위 큐 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/9655)  | 돌 게임               | [Java](10주차/돌%20게임)                 | 수학, 다이나믹 프로그래밍 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1495)  | 기타리스트            | [Java](10주차/기타리스트)                | 다이나믹 프로그래밍       | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2602)  | 돌다리 건너기         | [Java](10주차/돌다리%20건너기)           | 다이나믹 프로그래밍       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/12761) | 돌다리                | [Java](10주차/돌다리)                    | 그래프, 너비 우선 탐색    | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/9466)  | 텀 프로젝트           | [Java](10주차/텀%20프로젝트)             | 그래프, 깊이 우선 탐색    | Gold 4   |
 
 ### 11주차 (4/13, 4/16, 4/18)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/17281)|⚾|[Java](11주차/⚾%EF%B8%8F)|구현, 브루트포스|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/9465)|스티커|[Java](11주차/스티커)|다이나믹 프로그래밍|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/3980)|선발 명단|[Java](11주차/선발%20명단)|브루트포스, 백트래킹|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/6987)|월드컵|[Java](11주차/월드컵)|브루트포스, 백트래킹|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/10836)|여왕벌|[Java](11주차/여왕벌)|구현, 시뮬레이션|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1764)|듣보잡|[Java](11주차/듣보잡)|자료 구조, 문자열, 정렬|Silver 4|
+| 사이트                                            | 문제      | 풀이                       | 알고리즘                | 난이도   |
+| ------------------------------------------------- | --------- | -------------------------- | ----------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/17281) | ⚾         | [Java](11주차/⚾%EF%B8%8F)  | 구현, 브루트포스        | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/9465)  | 스티커    | [Java](11주차/스티커)      | 다이나믹 프로그래밍     | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/3980)  | 선발 명단 | [Java](11주차/선발%20명단) | 브루트포스, 백트래킹    | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/6987)  | 월드컵    | [Java](11주차/월드컵)      | 브루트포스, 백트래킹    | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/10836) | 여왕벌    | [Java](11주차/여왕벌)      | 구현, 시뮬레이션        | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1764)  | 듣보잡    | [Java](11주차/듣보잡)      | 자료 구조, 문자열, 정렬 | Silver 4 |
 
 ### 12주차 (4/20, 4/23)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064)|불량 사용자|[Java](12주차/불량%20사용자)|브루트포스, 해시, 문자열|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|[Java](12주차/단체사진%20찍기)|브루트포스|Level 2|
-|[Baekjoon](https://www.acmicpc.net/problem/2660)|회장뽑기|[Java](12주차/회장뽑기)|그래프, 너비 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1965)|상자넣기|[Java](12주차/상자넣기)|다이나믹 프로그래밍|Silver 2|
+| 사이트                                                       | 문제          | 풀이                           | 알고리즘                 | 난이도   |
+| ------------------------------------------------------------ | ------------- | ------------------------------ | ------------------------ | -------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064) | 불량 사용자   | [Java](12주차/불량%20사용자)   | 브루트포스, 해시, 문자열 | Level 3  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835) | 단체사진 찍기 | [Java](12주차/단체사진%20찍기) | 브루트포스               | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/2660)             | 회장뽑기      | [Java](12주차/회장뽑기)        | 그래프, 너비 우선 탐색   | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1965)             | 상자넣기      | [Java](12주차/상자넣기)        | 다이나믹 프로그래밍      | Silver 2 |
 
 ### 13주차 (4/27, 4/29, 5/2)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[Java](12주차/경주로%20건설)|그래프, 너비 우선 탐색|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[Java](12주차/구명보트)|그리디|Level 2|
-|[Baekjoon](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|[Java](13주차/숨바꼭질%203)|그래프, 너비 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16947)|서울 지하철 2호선|[Java](13주차/서울%20지하철%202호선)|너비 우선 탐색, 깊이 우선 탐색|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/1932)|정수 삼각형|[Java](13주차/정수%20삼각형)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/8980)|택배|[Java](13주차/택배)|그리디, 정렬|Gold 3|
+| 사이트                                                       | 문제              | 풀이                                 | 알고리즘                       | 난이도   |
+| ------------------------------------------------------------ | ----------------- | ------------------------------------ | ------------------------------ | -------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/67259) | 경주로 건설       | [Java](12주차/경주로%20건설)         | 그래프, 너비 우선 탐색         | Level 3  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트          | [Java](12주차/구명보트)              | 그리디                         | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/13549)            | 숨바꼭질 3        | [Java](13주차/숨바꼭질%203)          | 그래프, 너비 우선 탐색         | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/16947)            | 서울 지하철 2호선 | [Java](13주차/서울%20지하철%202호선) | 너비 우선 탐색, 깊이 우선 탐색 | Gold 3   |
+| [Baekjoon](https://www.acmicpc.net/problem/1932)             | 정수 삼각형       | [Java](13주차/정수%20삼각형)         | 다이나믹 프로그래밍            | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/8980)             | 택배              | [Java](13주차/택배)                  | 그리디, 정렬                   | Gold 3   |
 
 </details>
 
@@ -174,32 +174,32 @@
   <summary>14주차 ~ 16주차 (2021년 5월)</summary>
 
 ### 14주차 (5/4, 5/6, 5/9)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/16463)|13일의 금요일|[Java](14주차/13일의%20금요일)|브루트포스|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/14938)|서강그라운드|[Java](14주차/서강그라운드)|그래프, 다익스트라, 플로이드-와샬|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1931)|회의실 배정|[Java](14주차/회의실%20배정)|그리디, 정렬|Silver 2|
-|[Baekjoon](https://www.acmicpc.net/problem/1043)|거짓말|[Java](14주차/거짓말)|그래프, 분리 집합|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1013)|Contact|[Java](14주차/Contact)|문자열, 정규 표현식|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/8972)|미친 아두이노|[Java](14주차/미친%20아두이노)|구현, 시뮬레이션|Gold 4|
+| 사이트                                            | 문제          | 풀이                           | 알고리즘                          | 난이도   |
+| ------------------------------------------------- | ------------- | ------------------------------ | --------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/16463) | 13일의 금요일 | [Java](14주차/13일의%20금요일) | 브루트포스                        | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/14938) | 서강그라운드  | [Java](14주차/서강그라운드)    | 그래프, 다익스트라, 플로이드-와샬 | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1931)  | 회의실 배정   | [Java](14주차/회의실%20배정)   | 그리디, 정렬                      | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/1043)  | 거짓말        | [Java](14주차/거짓말)          | 그래프, 분리 집합                 | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1013)  | Contact       | [Java](14주차/Contact)         | 문자열, 정규 표현식               | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/8972)  | 미친 아두이노 | [Java](14주차/미친%20아두이노) | 구현, 시뮬레이션                  | Gold 4   |
 
 ### 15주차 (5/11, 5/14, 5/16)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/15685)|드래곤 커브|[Java](15주차/드래곤%20커브)|구현, 시뮬레이션|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/2156)|포도주 시식|[Java](15주차/포도주%20시식)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/20191)|줄임말|[Java](15주차/줄임말)|다이나믹 프로그래밍, 문자열, 두 포인터|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/2668)|숫자고르기|[Java](15주차/숫자고르기)|그래프, 깊이 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/2109)|순회강연|[Java](15주차/순회강연)|자료 구조, 그리디, 정렬|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/2473)|세 용액|[Java](15주차/세%20용액)|정렬, 이분 탐색, 두 포인터|Gold 4|
+| 사이트                                            | 문제        | 풀이                         | 알고리즘                               | 난이도   |
+| ------------------------------------------------- | ----------- | ---------------------------- | -------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [Java](15주차/드래곤%20커브) | 구현, 시뮬레이션                       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2156)  | 포도주 시식 | [Java](15주차/포도주%20시식) | 다이나믹 프로그래밍                    | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/20191) | 줄임말      | [Java](15주차/줄임말)        | 다이나믹 프로그래밍, 문자열, 두 포인터 | Gold 3   |
+| [Baekjoon](https://www.acmicpc.net/problem/2668)  | 숫자고르기  | [Java](15주차/숫자고르기)    | 그래프, 깊이 우선 탐색                 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/2109)  | 순회강연    | [Java](15주차/순회강연)      | 자료 구조, 그리디, 정렬                | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2473)  | 세 용액     | [Java](15주차/세%20용액)     | 정렬, 이분 탐색, 두 포인터             | Gold 4   |
 
 ### 16주차 (5/19, 6/6)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1436)|영화감독 숌|[Java](16주차/영화감독%20숌)|브루트포스|Silver 5|
-|[Baekjoon](https://www.acmicpc.net/problem/2597)|줄자접기|[Java](16주차/줄자접기)|구현|Silver 4|
-|[Baekjoon](https://www.acmicpc.net/problem/5397)|키로거|[Java](16주차/키로거)|자료 구조, 스택, 덱, 연결리스트|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/13305)|주유소|[Java](16주차/주유소)|그리디|Silver 4|
+| 사이트                                            | 문제        | 풀이                         | 알고리즘                        | 난이도   |
+| ------------------------------------------------- | ----------- | ---------------------------- | ------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1436)  | 영화감독 숌 | [Java](16주차/영화감독%20숌) | 브루트포스                      | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2597)  | 줄자접기    | [Java](16주차/줄자접기)      | 구현                            | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/5397)  | 키로거      | [Java](16주차/키로거)        | 자료 구조, 스택, 덱, 연결리스트 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/13305) | 주유소      | [Java](16주차/주유소)        | 그리디                          | Silver 4 |
 
 </details>
 
@@ -207,44 +207,44 @@
   <summary>17주차 ~ 20주차 (2021년 6월)</summary>
 
 ### 17주차 (6/8, 6/11, 6/13)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/5427)|불|[Java](17주차/불)|그래프, 너비 우선 탐색|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/1826)|연료 채우기|[Java](17주차/연료%20채우기)|자료 구조, 그리디, 정렬, 우선순위 큐|Gold 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[Java](17주차/위장)|자료 구조, 해시|Level 2|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[Java](17주차/행렬%20테두리%20회전하기)|구현, 시뮬레이션|Level 2|
-|[Baekjoon](https://www.acmicpc.net/problem/1756)|피자 굽기|[Java](17주차/피자%20굽기)|구현, 시뮬레이션, 이분 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[Java](17주차/Fly%20me%20to%20the%20Alpha%20Centauri)|수학|Silver 1|
+| 사이트                                                       | 문제                         | 풀이                                                  | 알고리즘                             | 난이도   |
+| ------------------------------------------------------------ | ---------------------------- | ----------------------------------------------------- | ------------------------------------ | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/5427)             | 불                           | [Java](17주차/불)                                     | 그래프, 너비 우선 탐색               | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1826)             | 연료 채우기                  | [Java](17주차/연료%20채우기)                          | 자료 구조, 그리디, 정렬, 우선순위 큐 | Gold 3   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) | 위장                         | [Java](17주차/위장)                                   | 자료 구조, 해시                      | Level 2  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](17주차/행렬%20테두리%20회전하기)               | 구현, 시뮬레이션                     | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/1756)             | 피자 굽기                    | [Java](17주차/피자%20굽기)                            | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1011)             | Fly me to the Alpha Centauri | [Java](17주차/Fly%20me%20to%20the%20Alpha%20Centauri) | 수학                                 | Silver 1 |
 
 ### 18주차 (6/15, 6/18, 6/20)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/16953)|A → B|[Java](18주차/A%20→%20B)|그래프, 그리디, 너비 우선 탐색|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/16398)|행성 연결|[Java](18주차/행성%20연결)|그래프, 최소 스패닝 트리|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[Java](18주차/계란으로%20계란치기)|브루트포스, 백트래킹|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2056)|작업|[Java](18주차/작업)|다이나믹 프로그래밍, 그래프, 위상 정렬|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/14226)|이모티콘|[Java](18주차/이모티콘)|다이나믹 프로그래밍, 그래프, 너비 우선 탐색|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/14719)|빗물|[Java](18주차/빗물)|구현, 시뮬레이션|Gold 5|
+| 사이트                                            | 문제              | 풀이                               | 알고리즘                                    | 난이도   |
+| ------------------------------------------------- | ----------------- | ---------------------------------- | ------------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B             | [Java](18주차/A%20→%20B)           | 그래프, 그리디, 너비 우선 탐색              | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/16398) | 행성 연결         | [Java](18주차/행성%20연결)         | 그래프, 최소 스패닝 트리                    | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16987) | 계란으로 계란치기 | [Java](18주차/계란으로%20계란치기) | 브루트포스, 백트래킹                        | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2056)  | 작업              | [Java](18주차/작업)                | 다이나믹 프로그래밍, 그래프, 위상 정렬      | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/14226) | 이모티콘          | [Java](18주차/이모티콘)            | 다이나믹 프로그래밍, 그래프, 너비 우선 탐색 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/14719) | 빗물              | [Java](18주차/빗물)                | 구현, 시뮬레이션                            | Gold 5   |
 
 ### 19주차 (6/22, 6/25, 6/27)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1484)|다이어트|[Java](19주차/다이어트)|수학, 두 포인터|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/2665)|미로만들기|[Java](19주차/미로만들기)|그래프, 너비 우선 탐색, 다익스트라|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/7573)|고기잡이|[Java](19주차/고기잡이)|브루트포스|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/12865)|평범한 배낭|[Java](19주차/평범한%20배낭)|다이나믹 프로그래밍|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[Java](19주차/소문난%20칠공주)|브루트포스, 그래프, 깊이 우선 탐색, 백트래킹|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/10434)|행복한 소수|[Java](19주차/행복한%20소수)|수학, 구현, 시뮬레이션|Silver 3|
+| 사이트                                            | 문제          | 풀이                           | 알고리즘                                     | 난이도   |
+| ------------------------------------------------- | ------------- | ------------------------------ | -------------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1484)  | 다이어트      | [Java](19주차/다이어트)        | 수학, 두 포인터                              | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2665)  | 미로만들기    | [Java](19주차/미로만들기)      | 그래프, 너비 우선 탐색, 다익스트라           | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/7573)  | 고기잡이      | [Java](19주차/고기잡이)        | 브루트포스                                   | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/12865) | 평범한 배낭   | [Java](19주차/평범한%20배낭)   | 다이나믹 프로그래밍                          | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1941)  | 소문난 칠공주 | [Java](19주차/소문난%20칠공주) | 브루트포스, 그래프, 깊이 우선 탐색, 백트래킹 | Gold 3   |
+| [Baekjoon](https://www.acmicpc.net/problem/10434) | 행복한 소수   | [Java](19주차/행복한%20소수)   | 수학, 구현, 시뮬레이션                       | Silver 3 |
 
 ### 20주차 (6/30, 7/2, 7/4)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|[Java](20주차/여행경로)|깊이 우선 탐색|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[Java](20주차/N-Queen)|브루트포스, 백트래킹|Level 3|
-|[Baekjoon](https://www.acmicpc.net/problem/11062)|카드 게임|[Java](20주차/카드%20게임)|다이나믹 프로그래밍, 게임 이론|Gold 3|
-|[Baekjoon](https://www.acmicpc.net/problem/2573)|빙산|[Java](20주차/빙산)|구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색|Gold 4|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[Java](20주차/등굣길)|다이나믹 프로그래밍|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[Java](20주차/순위)|그래프|Level 3|
+| 사이트                                                       | 문제      | 풀이                       | 알고리즘                                     | 난이도  |
+| ------------------------------------------------------------ | --------- | -------------------------- | -------------------------------------------- | ------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로  | [Java](20주차/여행경로)    | 깊이 우선 탐색                               | Level 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952) | N-Queen   | [Java](20주차/N-Queen)     | 브루트포스, 백트래킹                         | Level 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/11062)            | 카드 게임 | [Java](20주차/카드%20게임) | 다이나믹 프로그래밍, 게임 이론               | Gold 3  |
+| [Baekjoon](https://www.acmicpc.net/problem/2573)             | 빙산      | [Java](20주차/빙산)        | 구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Gold 4  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길    | [Java](20주차/등굣길)      | 다이나믹 프로그래밍                          | Level 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/49191) | 순위      | [Java](20주차/순위)        | 그래프                                       | Level 3 |
 
 </details>
 
@@ -252,27 +252,35 @@
   <summary>21주차 ~ 24주차 (2021년 7월)</summary>
 
 ### 21주차 (7/7, 7/11)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1720)|타일 코드|[Java](21주차/타일%20코드)|다이나믹 프로그래밍|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/1389)|케빈 베이컨의 6단계 법칙|[Java](21주차/케빈%20베이컨의%206단계%20법칙)|그래프, 플로이드 와샬, 너비 우선 탐색|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2482)|색상환|[Java](21주차/색상환)|다이나믹 프로그래밍|Gold 4|
-|[Baekjoon](https://www.acmicpc.net/problem/21608)|상어 초등학교|[Java](21주차/상어%20초등학교)|구현|Silver 1|
-  
+| 사이트                                            | 문제                     | 풀이                                          | 알고리즘                              | 난이도   |
+| ------------------------------------------------- | ------------------------ | --------------------------------------------- | ------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](21주차/타일%20코드)                    | 다이나믹 프로그래밍                   | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](21주차/케빈%20베이컨의%206단계%20법칙) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](21주차/색상환)                         | 다이나믹 프로그래밍                   | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](21주차/상어%20초등학교)                | 구현                                  | Silver 1 |
+
 ### 22주차 (7/14, 7/18)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1946)|신입 사원|[Java](22주차/신입%20사원)|그리디, 정렬|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/1034)|램프|[Java](22주차/램프)|브루트포스|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16198)|에너지 모으기|[Java](22주차/에너지%20모으기)|브루트포스, 백트래킹, 재귀|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/16472)|고냥이|[Java](22주차/고냥이)|이분 탐색, 두 포인터|Gold 3|
-  
+| 사이트                                            | 문제          | 풀이                           | 알고리즘                   | 난이도   |
+| ------------------------------------------------- | ------------- | ------------------------------ | -------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1946)  | 신입 사원     | [Java](22주차/신입%20사원)     | 그리디, 정렬               | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1034)  | 램프          | [Java](22주차/램프)            | 브루트포스                 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](22주차/에너지%20모으기) | 브루트포스, 백트래킹, 재귀 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/16472) | 고냥이        | [Java](22주차/고냥이)          | 이분 탐색, 두 포인터       | Gold 3   |
+
 ### 23주차 (7/21, 7/25)
-|사이트|문제|풀이|알고리즘|난이도|
-|---|---|---|---|---|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[Java](23주차/스티커%20모으기(2))|다이나믹 프로그래밍|Level 3|
-|[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[Java](23주차/카펫)|브루트포스|Level 2|
-|[Baekjoon](https://www.acmicpc.net/problem/6198)|옥상 정원 꾸미기|[Java](23주차/옥상%20정원%20꾸미기)|자료 구조, 스택|Gold 5|
-|[Baekjoon](https://www.acmicpc.net/problem/16235)|나무 재테크|[Java](23주차/나무%20재테크)|구현, 시뮬레이션|Gold 4|
+| 사이트                                                       | 문제             | 풀이                                | 알고리즘            | 난이도  |
+| ------------------------------------------------------------ | ---------------- | ----------------------------------- | ------------------- | ------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기(2) | [Java](23주차/스티커%20모으기(2))   | 다이나믹 프로그래밍 | Level 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842) | 카펫             | [Java](23주차/카펫)                 | 브루트포스          | Level 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/6198)             | 옥상 정원 꾸미기 | [Java](23주차/옥상%20정원%20꾸미기) | 자료 구조, 스택     | Gold 5  |
+| [Baekjoon](https://www.acmicpc.net/problem/16235)            | 나무 재테크      | [Java](23주차/나무%20재테크)        | 구현, 시뮬레이션    | Gold 4  |
+
+### 24주차 (7/28, 8/1)
+| 사이트                                           | 문제                      | 풀이                                             | 알고리즘             | 난이도   |
+| ------------------------------------------------ | ------------------------- | ------------------------------------------------ | -------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2792) | 보석 상자                 | [Java](24주차/보석%20상자)                       | 이분 탐색            | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](24주차/녹색%20옷%20입은%20애가%20젤다지?) | 그래프, 다익스트라   | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](24주차/나무꾼%20이다솜)                   | 구현, 브루트포스     | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](24주차/용액)                              | 이분 탐색, 두 포인터 | Gold 5   |
 
 </details>
