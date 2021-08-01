@@ -14,21 +14,21 @@
   </tr>
 </table>
 
-## 현재까지 푼 문제 수 (총 123문제)
+## 현재까지 푼 문제 수 (총 127문제)
 
-* `Baekjoon` : **94**문제
+* `Baekjoon` : **98**문제
 * `Programmers` : **18**문제
 * `SWExpert` : **11**문제
 
 ---
 
-### 24주차 (7/28, 8/1)
-| 사이트                                           | 문제                      | 풀이                                            | 알고리즘             | 난이도   |
-| ------------------------------------------------ | ------------------------- | ----------------------------------------------- | -------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/2792) | 보석 상자                 | [Java](24주차/보석%20상자)                      | 이분 탐색            | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](24주차/녹색%20옷%20입은%20애가%20젤다지) | 그래프, 다익스트라   | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](24주차/나무꾼%20이다솜)                  | 구현, 브루트포스     | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](24주차/용액)                             | 이분 탐색, 두 포인터 | Gold 5   |
+### 25주차 (8/4, 8/8)
+| 사이트                                            | 문제             | 풀이                                | 알고리즘                               | 난이도   |
+| ------------------------------------------------- | ---------------- | ----------------------------------- | -------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/3184)  | 양               | [Java](25주차/양)                   | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/3190)  | 뱀               | [Java](25주차/뱀)                   | 구현, 시뮬레이션, 자료 구조, 덱, 큐    | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/16401) | 과자 나눠주기    | [Java](25주차/과자%20나눠주기)      | 이분 탐색                              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/14621) | 나만 안되는 연애 | [Java](25주차/나만%20안되는%20연애) | 그래프, 최소 스패닝 트리               | Gold 3   |
 
 ---
 
@@ -282,5 +282,24 @@
 | [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](24주차/녹색%20옷%20입은%20애가%20젤다지?) | 그래프, 다익스트라   | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](24주차/나무꾼%20이다솜)                   | 구현, 브루트포스     | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](24주차/용액)                              | 이분 탐색, 두 포인터 | Gold 5   |
+
+</details>
+
+<details>
+  <summary>25주차 ~ 28주차 (2021년 8월)</summary>
+
+### 25주차 (8/4, 8/8)
+| 사이트                                            | 문제             | 풀이                                | 알고리즘                               | 난이도   |
+| ------------------------------------------------- | ---------------- | ----------------------------------- | -------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/3184)  | 양               | [Java](25주차/3184)                 | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/3190)  | 뱀               | [Java](25주차/뱀)                   | 구현, 시뮬레이션, 자료 구조, 덱, 큐    | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/16401) | 과자 나눠주기    | [Java](25주차/과자%20나눠주기)      | 이분 탐색                              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/14621) | 나만 안되는 연애 | [Java](25주차/나만%20안되는%20연애) | 그래프, 최소 스패닝 트리               | Gold 3   |
+
+### 26주차 (8/11, 8/15)
+
+### 27주차 (8/18, 8/22)
+
+### 28주차 (8/25, 8/29)
 
 </details>
